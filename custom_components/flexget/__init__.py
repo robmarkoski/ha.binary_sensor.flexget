@@ -1,0 +1,1 @@
+"""The Flexget Binary Sensor integration."""

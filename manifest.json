@@ -1,0 +1,8 @@
+{
+    "domain": "flexget",
+    "name": "Flexget Binary Sensor Component",
+    "documentation": "https://github.com/robmarkoski/ha.binary_sensor.flexget/blob/master/README.md",
+    "dependencies": [],
+    "codeowners": ["@robmarkoski", "@Tommatheussen"],
+    "requirements": []
+}
